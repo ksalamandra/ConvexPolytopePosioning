@@ -1,4 +1,4 @@
-# ConvexPolytopePosioning
+# ConvexPolytopePoisoning
 This repository provides codes to reproduce the major experiments in the paper [Transferable Clean-Label Poisoning Attacks on Deep Neural Nets](https://arxiv.org/abs/1905.05897), (ICML 2019).
 
 <div  align="center">
